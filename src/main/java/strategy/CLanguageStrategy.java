@@ -2,6 +2,9 @@ package strategy;
 
 import java.util.ArrayList;
 
+/**
+ * Strategy class for C programming language
+ */
 public class CLanguageStrategy implements LanguageStrategy {
     @Override
     public void countLines(ArrayList<String> lines) {

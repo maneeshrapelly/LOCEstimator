@@ -3,6 +3,9 @@ package parsers;
 import java.io.IOException;
 import java.util.ArrayList;
 
+/**
+ * Parses a directory
+ */
 public class DirectoryParser implements Parser {
     private String filePath;
 

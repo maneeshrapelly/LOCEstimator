@@ -1,5 +1,8 @@
 package grammer;
 
+/**
+ * Code grammer which is not a blank line and not a single line comment in java
+ */
 public class JavaValidCodeGrammer implements JavaGrammer {
 
     /*

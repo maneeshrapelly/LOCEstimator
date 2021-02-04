@@ -13,6 +13,9 @@ public class LOCEstimatorImpl implements LOCEstimator {
         this.strategy = strategy;
     }
 
+    /**
+     * Builder class for {@link LOCEstimatorImpl}
+     */
     public static class Builder {
         private final LANGUAGE lang;
 

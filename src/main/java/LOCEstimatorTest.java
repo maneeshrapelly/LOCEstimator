@@ -7,6 +7,9 @@ import parsers.FileParserFactory;
 import parsers.Parser;
 import parsers.ParserFactory;
 
+/**
+ * Test program to check functionality of LOCEstimator tool
+ */
 public class LOCEstimatorTest {
 
     public static LOCEstimatorImpl getEstimator(String input) {

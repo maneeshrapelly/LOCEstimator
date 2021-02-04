@@ -5,6 +5,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
+/**
+ * Parses a file
+ */
 public class FileParser implements Parser {
     private String filePath;
 

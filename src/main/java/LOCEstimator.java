@@ -4,6 +4,9 @@ import strategy.LanguageStrategy;
 
 public interface LOCEstimator {
 
+    /**
+     * Enum for denoting each programming language
+     */
     enum LANGUAGE {
         JAVA("java"),
         C("c"),

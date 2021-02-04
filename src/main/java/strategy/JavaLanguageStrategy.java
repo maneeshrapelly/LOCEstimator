@@ -7,6 +7,9 @@ import grammer.JavaGrammer;
 import grammer.JavaSingleLineCommentGrammer;
 import grammer.JavaValidCodeGrammer;
 
+/**
+ * Strategy class for Java programming language
+ */
 public class JavaLanguageStrategy implements LanguageStrategy {
     private ArrayList<JavaGrammer> grammers;
 

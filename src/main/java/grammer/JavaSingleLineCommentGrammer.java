@@ -1,5 +1,9 @@
 package grammer;
 
+/**
+ * Single line Comment Grammer
+ * e.g: // this is simgle line comment
+ */
 public class JavaSingleLineCommentGrammer implements JavaGrammer {
 
 /*
