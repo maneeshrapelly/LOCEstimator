@@ -44,5 +44,4 @@ Enter file path
 /home/gaian/Desktop/Sample_cpp.cpp
 Unsupported file type. Provide Java/C/Javascript files
 ```
-4) Directory path:
 
